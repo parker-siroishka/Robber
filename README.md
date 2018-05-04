@@ -1,9 +1,6 @@
 # Robber
-Intro to CPSC II - Semester Project (Video Game)
+<h3>Intro to CPSC II </h3> 
+<p>Semester Project <em>(Video Game)</em></p>
 
 
-Compile all java files in folder "SOURCE CODE & GRAPHICS" and run Game.java 
-
-
-example: step 1) javac *.java
- 	 step 2) java Game
+<strong>Compile all java files in directory</strong> <em>"SOURCE CODE & GRAPHICS"</em> <strong>and run</strong> <em>Game.java</em
